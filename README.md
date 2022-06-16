@@ -143,3 +143,12 @@ const navigation = useNavigation<NativeStackNavigationProp<any, any>>();
 }
 
 ```
+
+##### How to make a scrollable list
+
+ScrollView: https://reactnative.dev/docs/scrollview
+FlatList: https://reactnative.dev/docs/flatlist (more advanced, but far more powerful)
+
+##### How to add photos
+
+Image: https://reactnative.dev/docs/image
