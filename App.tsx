@@ -12,6 +12,7 @@ export default function App() {
   if (!isLoadingComplete) {
     return null;
   } else {
+    
     return (
       <SafeAreaProvider>
         <Navigation colorScheme={colorScheme} />
